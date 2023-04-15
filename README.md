@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning <b>Nuxt</b> and <b>Node</b>
+🌱 I’m currently learning <b>Swift</b>
 
 <!--
 **Shahiru93/Shahiru93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
